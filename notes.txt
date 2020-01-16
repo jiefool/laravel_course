@@ -1,1 +1,1 @@
-10. Editing Student
+11. Deleting Student
